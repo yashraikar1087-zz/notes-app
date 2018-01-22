@@ -1,0 +1,1 @@
+created a notes application usings lodash and yargs modules 
